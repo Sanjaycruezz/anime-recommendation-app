@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "anime": "frieren",
+        "genere": "f",
+        "rate": 9.0,
+        "emotion_tag": "inspiring"
+    },
+    {
+        "id": 2,
+        "anime": "your name",
+        "genere": "l",
+        "rate": 10.0,
+        "emotion_tag": "love"
+    },
+    {
+        "id": 3,
+        "anime": "silent voice",
+        "genere": "l",
+        "rate": 10.0,
+        "emotion_tag": "love"
+    },
+    {
+        "id": 4,
+        "anime": "eminence in shadow",
+        "genere": "T",
+        "rate": 8.0,
+        "emotion_tag": "intense"
+    },
+    {
+        "id": 6,
+        "anime": "jobless reincarnation",
+        "genere": "I",
+        "rate": 9.0,
+        "emotion_tag": "awe"
+    },
+    {
+        "id": 7,
+        "anime": "reincarnated slime",
+        "genere": "I",
+        "rate": 9.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 8,
+        "anime": "konosuba",
+        "genere": "I",
+        "rate": 8.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 9,
+        "anime": "onepunch man",
+        "genere": "C",
+        "rate": 8.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 10,
+        "anime": "weathering with you",
+        "genere": "L",
+        "rate": 9.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 11,
+        "anime": "Gintama",
+        "genere": "AC",
+        "rate": 10.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 12,
+        "anime": "dandandan",
+        "genere": "A",
+        "rate": 8.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 13,
+        "anime": "ouran hostclub",
+        "genere": "C",
+        "rate": 8.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 14,
+        "anime": "dangers in my heart",
+        "genere": "L",
+        "rate": 7.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 15,
+        "anime": "grimgar ash and illusion",
+        "genere": "I",
+        "rate": 7.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 16,
+        "anime": "girls last tour",
+        "genere": "SF",
+        "rate": 7.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 17,
+        "anime": "uzaki chan",
+        "genere": "C",
+        "rate": 8.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 18,
+        "anime": "kaguya sama love is war",
+        "genere": "CL",
+        "rate": 7.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 19,
+        "anime": "shounen maid",
+        "genere": "C",
+        "rate": 8.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 20,
+        "anime": "listless tanaka",
+        "genere": "Sl",
+        "rate": 8.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 21,
+        "anime": "lost in starlight",
+        "genere": "L",
+        "rate": 6.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 22,
+        "anime": "highschool of the dead",
+        "genere": "T",
+        "rate": 8.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 23,
+        "anime": "Vinland saga",
+        "genere": "T",
+        "rate": 9.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 24,
+        "anime": "prison school",
+        "genere": "X",
+        "rate": 6.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 25,
+        "anime": "AOT",
+        "genere": "A",
+        "rate": 8.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 26,
+        "anime": "dailylife of highschool boys",
+        "genere": "C",
+        "rate": 6.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 27,
+        "anime": "nichijou",
+        "genere": "C",
+        "rate": 5.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 28,
+        "anime": "horimiya",
+        "genere": "L",
+        "rate": 7.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 29,
+        "anime": "aho girl",
+        "genere": "C",
+        "rate": 6.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 30,
+        "anime": "monthly girls nozaki",
+        "genere": "C",
+        "rate": 8.0,
+        "emotion_tag": null
+    },
+    {
+        "id": 31,
+        "anime": "wotakoi love",
+        "genere": "Sl",
+        "rate": 8.0,
+        "emotion_tag": null
+    }
+]
