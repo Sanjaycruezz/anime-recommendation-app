@@ -12,7 +12,7 @@ from .models import Anime
 from .serializers import AnimeSerializer
 
 # ✅ Setup Gemini API Key
-GOOGLE_API_KEY = "AIzaSyB_G0I9odde2-IwZHB1EgHGmBTKaFvSf6Y"  # Replace with your actual key
+GOOGLE_API_KEY = "GOOGLE_API_KEY"  # Replace with your actual key
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # ✅ Select the first available model that supports generateContent
